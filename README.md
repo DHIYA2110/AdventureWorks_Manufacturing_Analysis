@@ -68,10 +68,10 @@ This section explores **manufacturing performance** across fiscal years, showing
 - Efficiency variations across categories
 
 **Production KPIs:**  
-![KPI - Production Overview](images/KPI-PROD.png)
+![KPI - Production Overview](IMAGES/KPI-PROD.png)
 
 **Production Analysis Page:**  
-![Production Analysis](images/PRODUCTION_ANALYSIS.png)
+![Production Analysis](IMAGES/PRODUCTION_ANALYSIS.png)
 
 ---
 
@@ -82,7 +82,7 @@ This page focuses on **category-level performance** and highlights:
 - Profitability contribution by product subcategory
 
 **Category Overview Page:**  
-![Category Overview](images/CATEGORY_OVERVIEW.png)
+![Category Overview](IMAGES/CATEGORY_OVERVIEW.png)
 
 ---
 
@@ -94,10 +94,10 @@ The **Inventory Overview** section emphasizes:
 - Slow-moving and high-value products
 
 **Inventory KPIs:**  
-![KPI - Inventory Overview](images/KPI-INV.png)
+![KPI - Inventory Overview](IMAGES/KPI-INV.png)
 
 **Inventory Analysis Page:**  
-![Inventory Overview](images/PRODUCTION_ANALYSIS.png)
+![Inventory Overview](IMAGES/PRODUCTION_ANALYSIS.png)
 
 ---
 
